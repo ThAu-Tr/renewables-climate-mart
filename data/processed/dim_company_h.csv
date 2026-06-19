@@ -1,0 +1,91 @@
+company_id,company_name,parent_company,company_level
+1,electricville AG,electricville AG,Holding
+2,Gemeindewerk Wunstorf GmbH ＆ Co. KG,electricville AG,direct Subsidiary
+3,Lancepower GmbH,electricville AG,direct Subsidiary
+4,electricville Contracting GmbH,electricville AG,direct Subsidiary
+5,electricville Erneuerbare GmbH,electricville AG,direct Subsidiary
+6,electricvilleSolution GmbH,electricville AG,direct Subsidiary
+7,pth GmbH,electricville AG,direct Subsidiary
+8,BEH Biomasse Hannover GmbH,Lancepower GmbH,indirect Subsidiary
+9,ELW Stromversorgung Leinefelde-Worbis GmbH,Lancepower GmbH,indirect Subsidiary
+10,Fiba Stromservice GmbH,Lancepower GmbH,indirect Subsidiary
+11,Heizversorgung Wolgast GmbH,Lancepower GmbH,indirect Subsidiary
+12,IEW Biogasfarm Wolgast GmbH,Lancepower GmbH,indirect Subsidiary
+13,Lancepower Biomasse GmbH,Lancepower GmbH,indirect Subsidiary
+14,Lancepower Pelletproduktion GmbH,Lancepower GmbH,indirect Subsidiary
+15,Lancepower Strom Service GmbH,Lancepower GmbH,indirect Subsidiary
+16,Lancepower Umwelt GmbH,Lancepower GmbH,indirect Subsidiary
+17,eCG Biomasse,electricville Contracting GmbH,indirect Subsidiary
+18,electricville Contracting Nord,electricville Contracting GmbH,indirect Subsidiary
+19,EBV Windfarm Almstedt-Breinum GmbH ＆ Co. Betriebs- KG,electricville Erneuerbare GmbH,indirect Subsidiary
+20,Freesen-Breeze III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+21,Freesen-Breeze IV GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+22,Freesen-Breeze V GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+23,Freesen-Breeze VI GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+24,Freesen-Breeze VII GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+25,Interstellar Solar GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+26,Nordisch Ausblick GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+27,Utere Ventos Wiesmoor III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+28,Utere Ventos Wiesmoor IV GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+29,Utere Ventos Wiesmoor VII GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+30,Utere Ventos Wiesmoor X GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+31,Utere Ventos Wiesmoor XI GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+32,Utere Ventos Wiesmoor XII GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+33,Utere Ventos Wiesmoor l GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+34,WKA Aasbruch I GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+35,WKA Aasbruch II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+36,WKA Aasbruch III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+37,WKA Aasbruch IV GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+38,WKA Sögel Süd I GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+39,WKA Sögel Süd II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+40,WKA Sögel Süd III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+41,Windenergieanlage Falkenhagen II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+42,Windenergieanlage Falkenhagen l GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+43,Windfarm Dalena GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+44,Windfarm Holtriemer Land I GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+45,Windfarm Holtriemer Land II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+46,Windfarm Holtriemer Land III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+47,Windfarm Holtriemer Land IV GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+48,Windfarm Holtriemer Land V GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+49,Windfarm Langewerth I GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+50,Windfarm Langewerth II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+51,Windfarm Nordisch GmbH ＆ Co. Holtriemer Hammrich I,electricville Erneuerbare GmbH,indirect Subsidiary
+52,Windfarm Nordisch GmbH ＆ Co. Holtriemer Hammrich II,electricville Erneuerbare GmbH,indirect Subsidiary
+53,Windfarm Nordisch GmbH ＆ Co. Holtriemer Hammrich III,electricville Erneuerbare GmbH,indirect Subsidiary
+54,Windfarm Nordisch GmbH ＆ Co. KG Blomberg/Neuschoo I,electricville Erneuerbare GmbH,indirect Subsidiary
+55,Windfarm Nordisch GmbH ＆ Co. KG Blomberg/Neuschoo II,electricville Erneuerbare GmbH,indirect Subsidiary
+56,Windfarm Nordisch GmbH ＆ Co. KG Blomberg/Neuschoo III,electricville Erneuerbare GmbH,indirect Subsidiary
+57,Windfarm Nordisch GmbH ＆ Co. KG Holtriemer Hammrich IX,electricville Erneuerbare GmbH,indirect Subsidiary
+58,Windfarm Nordisch GmbH ＆ Co. KG Ochtersum I,electricville Erneuerbare GmbH,indirect Subsidiary
+59,Windfarm Nordisch GmbH ＆ Co. KG Ochtersum II,electricville Erneuerbare GmbH,indirect Subsidiary
+60,Windfarm Nordisch GmbH ＆ Co. KG Ochtersum III,electricville Erneuerbare GmbH,indirect Subsidiary
+61,"Windfarm Nordisch GmbH ＆ Co. KG, Holtriemer Hammrich IV",electricville Erneuerbare GmbH,indirect Subsidiary
+62,"Windfarm Nordisch GmbH ＆ Co. KG, Holtriemer Hammrich V",electricville Erneuerbare GmbH,indirect Subsidiary
+63,"Windfarm Nordisch GmbH ＆ Co. KG, Holtriemer Hammrich VI",electricville Erneuerbare GmbH,indirect Subsidiary
+64,"Windfarm Nordisch GmbH ＆ Co. KG, Holtriemer Hammrich VII",electricville Erneuerbare GmbH,indirect Subsidiary
+65,"Windfarm Nordisch GmbH ＆ Co. KG, Holtriemer Hammrich VIII",electricville Erneuerbare GmbH,indirect Subsidiary
+66,Windfarm Ostermarsch GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+67,Windfarm Steinweg GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+68,Windfarm Sögel I GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+69,Windfarm Sögel II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+70,Windfarm Sögel III GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+71,Windfarm Sögel IV GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+72,Windfarm Sögel V GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+73,Windfarm Sögel VI GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+74,Windfarm Sögel VII GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+75,electricville Erneuerbare Tiefenriede GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+76,electricville Solarfarm Bemerode GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+77,electricville Solarfarm Eisenberg GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+78,electricville Windfarm Barnstorf GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+79,electricville Windfarm Beeskow GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+80,electricville Windfarm Beuren GmbH,electricville Erneuerbare GmbH,indirect Subsidiary
+81,electricville Windfarm Bosau GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+82,electricville Windfarm Fischbeck GmbH,electricville Erneuerbare GmbH,indirect Subsidiary
+83,electricville Windfarm Groß Eilstorf GmbH,electricville Erneuerbare GmbH,indirect Subsidiary
+84,electricville Windfarm Jeetze GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+85,electricville Windfarm Klettwitz GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+86,electricville Windfarm Lemwerder GmbH,electricville Erneuerbare GmbH,indirect Subsidiary
+87,electricville Windfarm Münstedt II GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+88,electricville Windfarm Portfolio GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary
+89,electricville Windfarm Portfolio II GmbH,electricville Erneuerbare GmbH,indirect Subsidiary
+90,electricville Windfarm Schipkau GmbH ＆ Co. KG,electricville Erneuerbare GmbH,indirect Subsidiary

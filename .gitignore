@@ -1,0 +1,41 @@
+# Python
+
+**pycache**/
+*.py[cod]
+
+# Virtual Environments
+
+venv/
+.venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Windows
+
+Thumbs.db
+
+# macOS
+
+.DS_Store
+
+# MaStR raw source files
+
+data/raw/mastr/marktakteure/*.xml
+data/raw/mastr/einheiten/*.xml
+data/raw/mastr/einheiten/solar/*.xml
+
+# DuckDB temporary files
+
+*.duckdb.wal
+*.duckdb.
+
+# Other
+archived/
+data/raw/openmeteo/*.sqlite
+data/raw/openmeteo/*.csv

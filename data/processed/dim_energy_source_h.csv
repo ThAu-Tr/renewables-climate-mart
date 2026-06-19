@@ -1,0 +1,5 @@
+energy_source_id,energy_source_name,energy_source_group
+1,Biomass,Renewable
+2,Wind,Renewable
+3,Hydro,Renewable
+4,Solar,Renewable
